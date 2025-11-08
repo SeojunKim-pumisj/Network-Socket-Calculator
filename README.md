@@ -41,7 +41,7 @@ git clone https://github.com/SeojunKim-pumisj/Network-Socket-Calculator
 | Method | 설명 |
 |--------|--------|
 |ANSWER| 계산 결과를 field에 담아 보낸다|
-|ㄸㄲ꺢| 에러 코드를 field에 담아 보낸다|
+|ERROR| 에러 코드를 field에 담아 보낸다|
 
 | Error Code | 설명 |
 |--------|--------|
