@@ -17,7 +17,7 @@ git clone https://github.com/SeojunKim-pumisj/Network-Socket-Calculator
 ## 사용법
 | 실행 화면 | 설명 |
 | --------- | ---------- |
-|<img src="./image/calculator.png" width ="250">|C : 전체 지우기 <br> + \| - \| ÷ \| × : 사칙연산자 <br> +/- : 부호 <br> . : 소수점 <br> = : 서버에 프로토콜 전송 <br> DISCONNECT : 서버와 연결 종료
+|<img src="./image/calculator.png" width ="250">|C : 전체 지우기 <br> <-- : 하나씩 지우기 <br>+ \| - \| ÷ \| × : 사칙연산자 <br> +/- : 부호 <br> . : 소수점 <br> = : 서버에 프로토콜 전송 <br> DISCONNECT : 서버와 연결 종료
 
 한 수식에 하나의 연산자만 사용 가능하며, 피연산자는 최대 2개를 입력할 수 있습니다.
 
